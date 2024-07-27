@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isUint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uint8array@esm/index.mjs';
+import isUint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uint8array@v0.2.2-esm/index.mjs';
 ```
 
 #### isUint8Array( value )
@@ -84,7 +84,7 @@ import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/in
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import isUint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uint8array@esm/index.mjs';
+import isUint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uint8array@v0.2.2-esm/index.mjs';
 
 var bool = isUint8Array( new Uint8Array( 10 ) );
 // returns true
